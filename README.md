@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/
         Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=learnbuildgrow)](https://github.com/eungyeole/velog-readme-stats)
+    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=learnbuildgrow)](https://github.com/eungyeole/velog-readme-stats)
 </div><br>
 <h3 align="center"> 📬️ Contact Me 📬 </h3>
 <div style="align="center"">
