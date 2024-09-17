@@ -25,6 +25,6 @@
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:hansuyeon.dev@gmail.com">
     <img
-      src="https://img.shields.io/badge/hansuyeon.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>/
+      src="https://img.shields.io/badge/hansuyeon.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
