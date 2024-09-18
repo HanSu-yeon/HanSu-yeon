@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Han%20Suyeon's%20GitHub👋&fontSize=40)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Han%20Suyeon's%20GitHub👋&fontSize=40" alt="header">
+
 
 <h3 align="center"> 🛠️ Tech Stacks 🛠️ </h3>
 <div align="center">
@@ -13,8 +14,9 @@
         <img src="https://img.shields.io/badge/
         Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-
-<div align="center">[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=learnbuildgrow)](https://github.com/eungyeole/velog-readme-stats)</div>
+    <a href="https://github.com/eungyeole/velog-readme-stats">
+        <img src="https://velog-readme-stats.vercel.app/api?name=learnbuildgrow" alt="Velog's GitHub stats">
+    </a>
 </div><br>
 
 <h3 align="center"> 📬️ Contact Me 📬 </h3>
