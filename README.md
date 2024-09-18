@@ -11,13 +11,12 @@
 <h3 align="center"> 💻 DEV's log 💻 </h3>
 <div align="center">
     <a href="https://velog.io/@learnbuildgrow">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
     <a href="https://github.com/eungyeole/velog-readme-stats">
         <img src="https://velog-readme-stats.vercel.app/api?name=learnbuildgrow" alt="Velog's GitHub stats">
     </a>
-</div><br>
+</div>
 
 <h3 align="center"> 📬️ Contact Me 📬 </h3>
 <div align="center">
