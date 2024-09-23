@@ -9,7 +9,6 @@
 </div>
 
 <h3 align="center"> 💻 DEV's log 💻 </h3>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=learnbuildgrow)](https://github.com/eungyeole/velog-readme-stats)
 
 <h3 align="center"> 📬️ Contact Me 📬 </h3>
 <div align="center">
