@@ -9,6 +9,11 @@
 </div>
 
 <h3 align="center"> 💻 DEV's log 💻 </h3>
+<div align="center">
+    <a href="https://velog.io/@learnbuildgrow" style="text-decoration: none;">
+        <img src="https://velog-readme-stats.vercel.app/api?name=learnbuildgrow" alt="Velog's GitHub stats"/>
+    </a>
+</div>
 
 <h3 align="center"> 📬️ Contact Me 📬 </h3>
 <div align="center">
